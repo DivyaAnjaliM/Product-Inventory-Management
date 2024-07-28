@@ -1,1 +1,2 @@
 # Product-Inventory-Management
+The provided Python code implements a simple inventory management system for tracking and managing product details, transactions, and generating sales reports. It is a basic inventory management system that allows users to perform various operations on a product inventory. It provides functionalities to add products, sell and buy products, update product details, display the current inventory, delete products, and generate sales reports based on month or year.
